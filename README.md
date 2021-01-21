@@ -3,6 +3,8 @@ GUI oriented live weather update using python
 
 This is an python coded "Weather information provider" . This code runs on both windows and linux type of Operating systems.
 
+Before running this Get ur API key from www.openweathermap.org
+
 For Windows Users ,
 1) Install any IDE for python ur comfortable with
 2) Download the file and extract
