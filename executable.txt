@@ -1,0 +1,10 @@
+To Convert code to Executable file
+
+Steps:
+1) open the file loaction wher the code exists
+2) open terminal by right clicking
+3) install pyinstaller
+4) run this code " pyinstaller --onefile -w 'filename.py' "
+5) after executing a new folder named 'Dist' appears in the same location
+6) Open it and u could find an '.exe' file
+
